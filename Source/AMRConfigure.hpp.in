@@ -1,0 +1,4 @@
+
+// CMake configuration header.
+#define AMR_VERSION_MAJOR @AMR_VERSION_MAJOR@
+#define AMR_VERSION_MINOR @AMR_VERSION_MINOR@

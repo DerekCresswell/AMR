@@ -9,13 +9,13 @@ If you want to be involved in the creation of this project check out the [Develo
 ## Contents
 
 * [Introduction](#introduction).
-** [Example Usage](#example-usage).
+	* [Example Usage](#example-usage).
 * [Installation](#installation).
-** [Requirements](#requirements).
-** [Configuration](#configuration).
+	* [Requirements](#requirements).
+	* [Configuration](#configuration).
 * [Development](#development).
-** [Roadmap](#roadmap).
-** [Local Setup](#local-setup).
+	* [Roadmap](#roadmap).
+	* [Local Setup](#local-setup).
 * [Maintainers](#maintainers).
 
 ## Introduction
