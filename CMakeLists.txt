@@ -41,10 +41,6 @@ add_subdirectory(${SOURCE_DIR})
 if(AMR_BUILD_TESTS)
 
 	message(STATUS "Building AMR unit tests.")
-
-	enable_testing()
-	include(GoogleTest)
-
 	add_subdirectory(${TESTS_DIR})
 
 endif()
