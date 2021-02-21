@@ -9,13 +9,13 @@ If you want to be involved in the creation of this project check out the [Develo
 ## Contents
 
 * [Introduction](#introduction).
-** [Example Usage](#example-usage).
+	* [Example Usage](#example-usage).
 * [Installation](#installation).
-** [Requirements](#requirements).
-** [Configuration](#configuration).
+	* [Requirements](#requirements).
+	* [Configuration](#configuration).
 * [Development](#development).
-** [Roadmap](#roadmap).
-** [Local Setup](#local-setup).
+	* [Roadmap](#roadmap).
+	* [Local Setup](#local-setup).
 * [Maintainers](#maintainers).
 
 ## Introduction
@@ -41,7 +41,7 @@ There are a few ways you can install the AMR library:
 
 ### Requirements
 
-The AMR library requires C++ XX or above to run.
+The AMR library requires C++ 17 or above to run.
 
 ### Configuration
 
