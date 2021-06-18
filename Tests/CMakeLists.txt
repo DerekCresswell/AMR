@@ -4,7 +4,8 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/External/googletest" "External/googletes
 enable_testing()
 
 SET(TEST_SOURCE_FILES
-	temp.test.cpp
+	Expression/ExpressionNode.test.cpp
+	Expression/ExpressionTree.test.cpp
 )
 
 add_executable(amr_tests ${TEST_SOURCE_FILES})
