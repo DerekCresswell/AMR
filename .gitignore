@@ -1,4 +1,7 @@
 
-\Build
-\out
-\.vs
+# CMake Files.
+[Bb]uild/
+
+# Editor files.
+.idea/
+.vscode/

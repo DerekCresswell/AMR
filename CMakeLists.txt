@@ -25,7 +25,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_library(${PROJECT_NAME} "")
 
-configure_file(${SOURCE_DIR}/${PROJECT_NAME}Configure.hpp.in ${PROJECT_NAME}Configure.hpp)
+configure_file(${SOURCE_DIR}/AMRConfigure.hpp.in AMRConfigure.hpp)
 
 target_include_directories(${PROJECT_NAME}
 	PUBLIC
@@ -36,7 +36,7 @@ target_include_directories(${PROJECT_NAME}
 
 add_subdirectory(${SOURCE_DIR})
 
-# Set up options.
+# Set up executables.
 # ---------------
 if(AMR_BUILD_TESTS)
 

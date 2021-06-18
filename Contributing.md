@@ -1,7 +1,7 @@
 # A Mathematical Rig Contributing
 
 Here is all you need to know about how to get started with contributing code to AMR.
-Reading this and following the instructions within will ensure a swift and smooth journey from issue to getting a pull request accepted.
+Reading this and following the instructions within will ensure a swift and smooth journey from issue to a merged pull request.
 
 ## Contents
 

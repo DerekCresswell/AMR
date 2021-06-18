@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(SOURCE_FILES
+set(LIB_SOURCE_FILES
 	temp.cpp
 )
 
 target_sources(${PROJECT_NAME}
 	PRIVATE
-		${SOURCE_FILES}
+		${LIB_SOURCE_FILES}
 )
