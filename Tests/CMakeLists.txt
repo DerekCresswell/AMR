@@ -4,6 +4,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/External/googletest" "External/googletes
 enable_testing()
 
 SET(TEST_SOURCE_FILES
+	Expression/CommonExpressionNodes.test.cpp
 	Expression/ExpressionNode.test.cpp
 	Expression/ExpressionTree.test.cpp
 )

@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 
 set(LIB_SOURCE_FILES
+	Expression/CommonExpressionNodes.cpp
 	Expression/ExpressionNode.cpp
 	Expression/ExpressionTree.cpp
 )
